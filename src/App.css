@@ -31,12 +31,16 @@
 .Navbar {
   display: inline-flex;
   list-style-type: none;
+  margin-top: 1em;
 }
 
 .items {
   padding-left: 2em;
 }
 
+.photo {
+  float: right;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

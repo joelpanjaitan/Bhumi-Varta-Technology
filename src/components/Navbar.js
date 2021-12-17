@@ -7,7 +7,7 @@ const navbar = () => {
         <Link to="/">Lightmode</Link>
       </li>
       <li className="items">
-        <Link to="/cats">Darkmode</Link>
+        <Link to="/dark">Darkmode</Link>
       </li>
       <li className="items">
         <Link to="/sheeps">Language</Link>
